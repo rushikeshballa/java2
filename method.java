@@ -3,6 +3,7 @@ public class method {
     static void mymethod() {
         System.out.println("my MEthord");
     }
+    // passing the arguments in method
     static void function(int x,int y){
         System.out.println(x+y);
     }
