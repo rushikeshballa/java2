@@ -1,5 +1,5 @@
 public class method {
-
+    int x=0;
     static void mymethod() {
         System.out.println("my MEthord");
     }
