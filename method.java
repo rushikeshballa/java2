@@ -11,6 +11,4 @@ public class method {
         mymethod();
         function(10, 20);
     }
-    
-    
 }
